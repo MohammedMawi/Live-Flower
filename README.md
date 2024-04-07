@@ -20,6 +20,7 @@ Night Time/Flower Sleeping (Lights Off):
 - (Touch sensor) Interaction with the leaves through the simulated a watering effect, visualized by a blue light pulse moving up the stem.
 
 Day Time/Flower is Awake(Lights On):
+- (Photosensor) Upon detecting higher light levels, the (Servo Motor) opens the flower petals, signalling that the flower is now awake.
 - (Servo motor/Photosensor) Flower petals sprout back up after sensing light, becomes awake
 - (Neopixel) Green light pulses down the stem showing that it is getting its nutrients from the sun
 - (Touch sensor) Touching the leaves will tickle it, causing it to emit colorful lights (through neopixel)
